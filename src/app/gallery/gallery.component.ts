@@ -8,51 +8,51 @@ import { Component } from '@angular/core';
 export class GalleryComponent {
   cards = [
     {
-      src:'../../assets/gallery/gal-1.png',
+      src:'assets/gallery/gal-1.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-2.png',
+      src:'assets/gallery/gal-2.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-3.png',
+      src:'assets/gallery/gal-3.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-4.png',
+      src:'assets/gallery/gal-4.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-5.png',
+      src:'assets/gallery/gal-5.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-6.png',
+      src:'assets/gallery/gal-6.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-1.png',
+      src:'assets/gallery/gal-1.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-2.png',
+      src:'assets/gallery/gal-2.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-4.png',
+      src:'assets/gallery/gal-4.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-5.png',
+      src:'assets/gallery/gal-5.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-6.png',
+      src:'assets/gallery/gal-6.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     },{
-      src:'../../assets/gallery/gal-3.png',
+      src:'assets/gallery/gal-3.png',
       title:"Card title",
       text: "Some quick example text to build on the card title and make up the bulk of the card's content."
     }
