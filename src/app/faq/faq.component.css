@@ -6,12 +6,9 @@
   font-size: 3rem;
 }
 .vf-accordion__btn {
-  color: #212121;
-  background: #fff;
+  border:2px solid #33bdff ;
 }
 .vf-accordion__btn::after {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,9 +17,7 @@
   font-size: 24px;
   line-height: 1;
   color: #fff;
-  background: #33bdff;
   text-align: center;
-  background-image: initial !important;
   transform: rotate(0deg) !important;
 }
 
